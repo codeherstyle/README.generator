@@ -1,0 +1,15 @@
+{
+  "name": "readme.generator",
+  "version": "1.0.0",
+  "description": "A generator that creates a README.md file by using prompt questions.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.3.2"
+  }
+}
